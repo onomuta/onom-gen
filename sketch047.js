@@ -32,7 +32,7 @@ let exportMax = 0;
 let exportSessionID = "";
 
 function setup() {
-  let c = createCanvas(1920, 1280);
+  let c = createCanvas(1920, 1080);
   pixelDensity(1);
   
   // 画面に合わせて表示サイズを調整
