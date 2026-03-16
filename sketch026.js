@@ -33,7 +33,7 @@ function setup() {
   // キャンバスをウィンドウ内に収めるためのCSS設定
   c.style('width', '100%');
   c.style('height', 'auto');
-  c.style('max-height', '80vh'); // 縦幅もウィンドウに収まるように制限
+  c.style('max-height', '100vh'); // 縦幅もウィンドウに収まるように制限
   c.style('display', 'block');
   c.style('margin', '0 auto'); // 中央寄せ
 

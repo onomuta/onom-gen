@@ -39,7 +39,7 @@ function setup() {
   // CSS設定（ウィンドウに合わせて縮小表示）
   c.style('width', '100%');
   c.style('height', 'auto');
-  c.style('max-height', '80vh');
+  c.style('max-height', '100vh');
   c.style('display', 'block');
   c.style('margin', '0 auto');
   c.style('box-shadow', '0 0 20px rgba(0,0,0,0.8)'); // 影をつけて浮き上がらせる
